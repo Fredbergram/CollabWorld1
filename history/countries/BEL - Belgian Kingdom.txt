@@ -1,7 +1,7 @@
 ﻿capital = 6
 set_research_slots = 3
 set_stability = 0.8
-set_war_support = 0.3 #we see what you are doing there Adolf
+set_war_support = 0.3 #we see what you are doing there Adolf. You`re drawing pictures in Vienna
 add_1922_modern_tech = yes
 set_politics = {
 	ruling_party = conservatism
